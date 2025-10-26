@@ -1,10 +1,7 @@
 <!-- Programming Light Organization README -->
 
 <p align="center">
-<!--->
-  <img src="https://github.com/user-attachments/assets/63aec3b8-569c-4a0e-9668-8279e3d03170" width="120" alt="Programming Light Logo" />
-</--->
-  
+<img width="2560" height="1440" alt="image (6)" src="https://github.com/user-attachments/assets/52c4071e-8948-4334-a8f0-130d5b600e46" /> 
 </p>
 
 <h1 align="center">⚡ Programming Light</h1>
